@@ -1,0 +1,161 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">QuizBox</string>
+
+    <string name="sign_hello">HELLO THERE, </string>
+    <string name="sign_welcome">WELCOME BACK</string>
+    <string name="signin_hint">Sign to continue</string>
+    <string name="New_User">New User? Sign Up</string>
+    <string name="Already_user">Already a user? Sign In</string>
+
+<!--    <string name="m_heading">Marketing Quiz</string>-->
+<!--    <string name="an_heading">Programming Quiz</string>-->
+<!--    <string name="his_heading">History Quiz</string>-->
+<!--    <string name="mult_heading">Multimedia Quiz</string>-->
+<!--    <string name="allknow_heading">All Know. Quiz</string>-->
+
+    <string name="successfull">You completed your quiz successfully</string>
+    <string name="try_agin">Try harder next time!</string>
+    <string name="genius">Genius!</string>
+    <string name="sad">Feeling Sad?</string>
+    <string name="crying_message">You are not ready for next level. Try Again!</string>
+
+    <!-- CHANGE ADMOB STRINGS HERE-->
+    <string name="admob_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="inter_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="about_learn">Learn and have fun with:</string>
+<!--    <string name="app_Name">QuizBox</string>-->
+    <string name="App_Version">Version 1.0.0</string>
+    <string name="invite_friends">Invite Friends</string>
+    <string name="enter_your_email">Enter your email to receive a</string>
+    <string name="verification_code">Verification code</string>
+    <string name="email">Email</string>
+    <string name="categories">Categories</string>
+    <string name="welcome">WELCOME,</string>
+    <string name="full_name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="welcome_to_the_sp">Welcome to the Study Partner</string>
+    <string name="press_start_to_continue">Press START to continue</string>
+    <string name="start">START</string>
+    <string name="password_hint">Password</string>
+    <string name="user_info">USER INFO</string>
+    <string name="don_t_cry">Don\'t Cry!</string>
+    <string name="twenty_score">20% Score</string>
+<!--    <string name="quiz">Quiz</string>-->
+<!--    <string name="box">Box</string>-->
+<!--    <string name="learn_and_upgrade">Learn and Upgrade</string>-->
+    <string name="try_again">Try Again</string>
+    <string name="choose_your_preferred_level">Choose your preferred Level</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="fifty_score" tools:ignore="StringFormatInvalid">50% Score</string>
+    <string name="congrats">Congrats!</string>
+    <string name="seventy_score">70% Score</string>
+    <string name="next_level">Next Level</string>
+    <string name="hundred_score">100% Score</string>
+    <string name="question_number_countdown">1/10</string>
+    <string name="share_question">Share Question</string>
+    <string name="next">Next</string>
+    <string name="todo">QuizBox Image</string>
+    <string name="video_tutorials">Courses</string>
+
+    <string name="java">Java</string>
+    <string name="java_vid_text">
+        <b>Java is a high\-level programming language originally developed by Sun Microsystems and released in 1995\. Java runs on a variety of platforms\, such as Windows\, Mac OS\, and the various versions of UNIX\. This tutorial gives a complete understanding of Java\. This reference will take you through simple and practical approaches while learning Java Programming language\.</b>
+
+        <h2>Why to Learn java Programming?</h2>
+        \n Java is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Software Development Domain\. I will list down some of the key advantages of learning Java Programming\:
+
+        \n Object Oriented \− In Java\, everything is an Object\. Java can be easily extended since it is based on the Object model\.
+
+        \n Platform Independent \− Unlike many other programming languages including C and C++\, when Java is compiled\, it is not compiled into platform specific machine\, rather into platform independent byte code\. This byte code is distributed over the web and interpreted by the Virtual Machine (JVM) on whichever platform it is being run on\.
+
+        \n Simple \− Java is designed to be easy to learn\. If you understand the basic concept of OOP Java\, it would be easy to master\.
+
+        \n Secure \− With Java\'s secure feature it enables to develop virus-free\, tamper\-free systems\. Authentication techniques are based on public\-key encryption\.
+
+        \n Architecture\-neutral \− Java compiler generates an architecture\-neutral object file format\, which makes the compiled code executable on many processors\, with the presence of Java runtime system\.
+
+        \n Portable \− Being architecture\-neutral and having no implementation dependent aspects of the specification makes Java portable\. Compiler in Java is written in ANSI C with a clean portability boundary\, which is a POSIX subset\.
+
+        \n Robust \− Java makes an effort to eliminate error prone situations by emphasizing mainly on compile time error checking and runtime checking\.
+
+    </string>
+
+
+
+    <string name="dotnet_video">DotNet</string>
+    <string name="dotnet_vid_txt">
+        <b>\.NET is a framework to develop software applications\. It is designed and developed by Microsoft and the first beta version released in 2000\.</b>
+        \n It is used to develop applications for web\, Windows, phone. Moreover\, it provides a broad range of functionalities and support\.
+        \n This framework contains a large number of class libraries known as Framework Class Library (FCL)\. The software programs written in \.NET are executed in the execution environment\, which is called CLR (Common Language Runtime)\. These are the core and essential parts of the \.NET framework\.
+
+    </string>
+
+
+
+
+
+
+    <string name="python_video">Python</string>
+    <string name="python_vid_txt">
+        <b>Python is a general\-purpose interpreted, interactive\, object-oriented, and high-level programming language\. It was
+        created by Guido van Rossum during 1985- 1990\. Like Perl\, Python source code is also available under the GNU General
+        Public License (GPL)\. This tutorial gives enough understanding on Python programming language\.</b>
+
+        \n
+        \n
+        <b>Why to Learn Python?</b>
+        \n Python is a high\-level\, interpreted\, interactive and object\-oriented scripting language\. Python is designed to be highly
+        readable\. It uses English keywords frequently where as other languages use punctuation\, and it has fewer syntactical
+        constructions than other languages\.
+
+        \n  Python is a MUST for students and working professionals to become a great Software Engineer specially when they
+        are working in Web Development Domain\. I will list down some of the key advantages of learning Python\:
+
+        \n Python is Interpreted \− Python is processed at runtime by the interpreter\. You do not need to compile your program before executing it\. This is similar to PERL and PHP\.
+
+        \n Python is Interactive \− You can actually sit at a Python prompt and interact with the interpreter directly to write your programs\.
+
+        \n Python is Object\-Oriented \− Python supports Object-Oriented style or technique of programming that encapsulates code within objects.
+
+        \n Python is a Beginner\'s Language \− Python is a great language for the beginner-level programmers and supports the
+        development of a wide range of applications from simple text processing to WWW browsers to games\.
+
+        \n
+        \n
+        <b>Characteristics of Python</b>
+        \n Following are important characteristics of Python Programming \−
+        \n It supports functional and structured programming methods as well as OOP\.
+
+        \n It can be used as a scripting language or can be compiled to byte\-code for building large applications\.
+
+        \n It provides very high\-level dynamic data types and supports dynamic type checking\.
+
+        \n It supports automatic garbage collection\.
+
+        \n It can be easily integrated with C\, C++\, COM\, ActiveX\, CORBA\, and Java.Python is a general-purpose interpreted\,
+        interactive\, object-oriented\, and high\-level programming language\. It was created by Guido van Rossum during
+        1985\- 1990\. Like Perl\, Python source code is also available under the GNU General Public License (GPL)\. This
+        tutorial gives enough understanding on Python programming language\.
+
+        \n
+        \n
+        <b>Why to Learn Python?</b>
+        <p>\n Python is a high-level, interpreted, interactive and object-oriented scripting language. Python is designed to be highly
+        readable. It uses English keywords frequently where as other languages use punctuation, and it has fewer syntactical
+        constructions than other languages.
+        \n Python is a MUST for students and working professionals to become a great Software Engineer specially when they are
+        working in Web Development Domain\.
+        </p>
+    </string>
+    <string name="python_quiz">Python Quiz</string>
+    <string name="java_quiz">Java Quiz</string>
+    <string name="dotnet_quiz">DotNet Quiz</string>
+    <string name="courses">Courses</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+
+
+</resources>

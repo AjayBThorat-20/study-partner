@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="com.ayowainc.quizbox">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <dist:module dist:instant="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".DotNetVideo"
+            android:exported="true" />
+        <activity
+            android:name=".PythonVideo"
+            android:exported="true" />
+        <activity
+            android:name=".JavaVideo"
+            android:exported="true" />
+        <activity
+            android:name=".TutVideo"
+            android:exported="true" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713" />
+
+        <service
+            android:name=".MusicServiceActivity"
+            android:enabled="true" />
+
+        <activity android:name=".DotNetBeginnerActivity" />
+        <activity android:name=".DotNetProfessionalActivity" />
+        <activity android:name=".DotNetWorldClassActivity" />
+
+
+
+        <activity android:name=".JavaBeginnerActivity" />
+        <activity android:name=".JavaProfessionalActivity" />
+        <activity android:name=".JavaWorldClassActivity" />
+
+
+        <activity android:name=".PythonBeginnerActivity" />
+        <activity android:name=".PythonProfessionalActivity" />
+        <activity android:name=".PythonWorldClassActivity" />
+        <activity android:name=".AboutUsActivity" />
+        <activity android:name=".UserProfileActivity" />
+        <activity android:name=".MenuHomeScreenActivity" />
+        <activity android:name=".SignUpActivity" />
+        <activity android:name=".SplashScreenActivity" />
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
